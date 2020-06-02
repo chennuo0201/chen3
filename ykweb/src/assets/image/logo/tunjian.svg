@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 60 0 60 60 30 51.0904104 0 60"></polygon>
+    </defs>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-26">
+            <g id="椭圆形">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#DB405E" xlink:href="#path-1"></use>
+                <circle fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-2)" cx="70.411751" cy="40.2679218" r="53.5"></circle>
+                <circle id="椭圆形-copy-2" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-2)" cx="40.6333168" cy="45.660112" r="53.5"></circle>
+            </g>
+            <text id="推荐" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                <tspan x="12" y="35.4">推荐</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="50px" viewBox="0 0 160 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>160x50立即购买用</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="160" height="50"></rect>
+        <linearGradient x1="12.5385648%" y1="11.4282648%" x2="101.999998%" y2="100.999999%" id="linearGradient-3">
+            <stop stop-color="#8371F8" offset="0%"></stop>
+            <stop stop-color="#7059F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.8099295%" y1="10.3763247%" x2="9.35804591%" y2="77.655493%" id="linearGradient-4">
+            <stop stop-color="#3828D3" offset="0%"></stop>
+            <stop stop-color="#A1E2E2" stop-opacity="0.113139719" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.4834144%" y1="100.944849%" x2="102.055149%" y2="11.4834153%" id="linearGradient-5">
+            <stop stop-color="#696EF6" offset="0%"></stop>
+            <stop stop-color="#5F56F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.5385648%" y1="11.4282648%" x2="101.999998%" y2="100.999999%" id="linearGradient-6">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#A1E2E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矿机详情" transform="translate(-580.000000, -390.000000)">
+            <g id="160x50立即购买用" transform="translate(580.000000, 390.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#487AF1" xlink:href="#path-1"></use>
+                <g id="Group-child" mask="url(#mask-2)">
+                    <g transform="translate(-50.000000, -74.000000)">
+                        <path d="M130.199958,86.0020097 L199.60119,86.0020097 C200.70576,86.0020097 201.60119,86.8974402 201.60119,88.0020097 L201.60119,179.574289 C201.60119,180.678859 200.70576,181.574289 199.60119,181.574289 L130.199958,181.574289 C129.095388,181.574289 128.199958,180.678859 128.199958,179.574289 L128.199958,88.0020097 C128.199958,86.8974402 129.095388,86.0020097 130.199958,86.0020097 Z" id="Rectangle-2-Copy-4" fill="url(#linearGradient-3)" opacity="0.488374256" transform="translate(164.900574, 133.788149) rotate(-315.000000) translate(-164.900574, -133.788149) "></path>
+                        <path d="M25.0405418,86.4325155 L94.4417745,86.4325155 C95.546344,86.4325155 96.4417745,87.327946 96.4417745,88.4325155 L96.4417745,180.004795 C96.4417745,181.109364 95.546344,182.004795 94.4417745,182.004795 L25.0405418,182.004795 C23.9359723,182.004795 23.0405418,181.109364 23.0405418,180.004795 L23.0405418,88.4325155 C23.0405418,87.327946 23.9359723,86.4325155 25.0405418,86.4325155 Z" id="Rectangle-2-Copy-5" fill="url(#linearGradient-4)" opacity="0.332333519" transform="translate(59.741158, 134.218655) rotate(-315.000000) translate(-59.741158, -134.218655) "></path>
+                        <path d="M77.7774978,16.3028368 L147.17873,16.3028368 C148.2833,16.3028368 149.17873,17.1982673 149.17873,18.3028368 L149.17873,109.875116 C149.17873,110.979686 148.2833,111.875116 147.17873,111.875116 L77.7774978,111.875116 C76.6729283,111.875116 75.7774978,110.979686 75.7774978,109.875116 L75.7774978,18.3028368 C75.7774978,17.1982673 76.6729283,16.3028368 77.7774978,16.3028368 Z" id="Rectangle-2-Copy-6" fill="url(#linearGradient-5)" opacity="0.156901042" transform="translate(112.478114, 64.088977) rotate(-225.000000) translate(-112.478114, -64.088977) "></path>
+                        <path d="M165.096926,10.1502503 L222.607247,10.1502503 C223.711816,10.1502503 224.607247,11.0456808 224.607247,12.1502503 L224.607247,88.2399341 C224.607247,89.3445036 223.711816,90.2399341 222.607247,90.2399341 L165.096926,90.2399341 C163.992357,90.2399341 163.096926,89.3445036 163.096926,88.2399341 L163.096926,12.1502503 C163.096926,11.0456808 163.992357,10.1502503 165.096926,10.1502503 Z" id="Rectangle-2-Copy-7" fill="url(#linearGradient-6)" opacity="0.400000006" transform="translate(193.852087, 50.195092) rotate(-225.000000) translate(-193.852087, -50.195092) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

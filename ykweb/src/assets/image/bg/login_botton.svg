@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="40px" viewBox="0 0 300 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>300x40登录按钮</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 300 0 300 40 0 40"></polygon>
+        <linearGradient x1="12.5385648%" y1="11.4282648%" x2="101.999998%" y2="100.999999%" id="linearGradient-3">
+            <stop stop-color="#8371F8" offset="0%"></stop>
+            <stop stop-color="#7059F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.8099295%" y1="10.3763247%" x2="9.35804591%" y2="77.655493%" id="linearGradient-4">
+            <stop stop-color="#3828D3" offset="0%"></stop>
+            <stop stop-color="#A1E2E2" stop-opacity="0.113139719" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.4834144%" y1="100.944849%" x2="102.055149%" y2="11.4834153%" id="linearGradient-5">
+            <stop stop-color="#696EF6" offset="0%"></stop>
+            <stop stop-color="#5F56F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.5385648%" y1="11.4282648%" x2="101.999998%" y2="100.999999%" id="linearGradient-6">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#A1E2E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-840.000000, -391.000000)">
+            <g id="Group-2" transform="translate(777.000000, 210.000000)">
+                <g id="300x40登录按钮" transform="translate(63.000000, 181.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#487AF1" xlink:href="#path-1"></use>
+                    <g id="Group-child" mask="url(#mask-2)">
+                        <g transform="translate(-67.500000, -132.000000)">
+                            <path d="M215.803249,143.428356 L334.216878,143.428356 C335.321448,143.428356 336.216878,144.323786 336.216878,145.428356 L336.216878,300.817362 C336.216878,301.921932 335.321448,302.817362 334.216878,302.817362 L215.803249,302.817362 C214.69868,302.817362 213.803249,301.921932 213.803249,300.817362 L213.803249,145.428356 C213.803249,144.323786 214.69868,143.428356 215.803249,143.428356 Z" id="Rectangle-2-Copy-4" fill="url(#linearGradient-3)" opacity="0.488374256" transform="translate(275.010064, 223.122859) rotate(-315.000000) translate(-275.010064, -223.122859) "></path>
+                            <path d="M40.4254628,144.146324 L158.839092,144.146324 C159.943661,144.146324 160.839092,145.041755 160.839092,146.146324 L160.839092,301.535331 C160.839092,302.6399 159.943661,303.535331 158.839092,303.535331 L40.4254628,303.535331 C39.3208933,303.535331 38.4254628,302.6399 38.4254628,301.535331 L38.4254628,146.146324 C38.4254628,145.041755 39.3208933,144.146324 40.4254628,144.146324 Z" id="Rectangle-2-Copy-5" fill="url(#linearGradient-4)" opacity="0.332333519" transform="translate(99.632277, 223.840828) rotate(-315.000000) translate(-99.632277, -223.840828) "></path>
+                            <path d="M128.376604,27.1887725 L246.790233,27.1887725 C247.894802,27.1887725 248.790233,28.084203 248.790233,29.1887725 L248.790233,184.577779 C248.790233,185.682349 247.894802,186.577779 246.790233,186.577779 L128.376604,186.577779 C127.272034,186.577779 126.376604,185.682349 126.376604,184.577779 L126.376604,29.1887725 C126.376604,28.084203 127.272034,27.1887725 128.376604,27.1887725 Z" id="Rectangle-2-Copy-6" fill="url(#linearGradient-5)" opacity="0.156901042" transform="translate(187.583418, 106.883276) rotate(-225.000000) translate(-187.583418, -106.883276) "></path>
+                            <path d="M274.002062,16.9279034 L372.584829,16.9279034 C373.689398,16.9279034 374.584829,17.8233339 374.584829,18.9279034 L374.584829,148.49608 C374.584829,149.60065 373.689398,150.49608 372.584829,150.49608 L274.002062,150.49608 C272.897493,150.49608 272.002062,149.60065 272.002062,148.49608 L272.002062,18.9279034 C272.002062,17.8233339 272.897493,16.9279034 274.002062,16.9279034 Z" id="Rectangle-2-Copy-7" fill="url(#linearGradient-6)" opacity="0.400000006" transform="translate(323.293445, 83.711992) rotate(-225.000000) translate(-323.293445, -83.711992) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

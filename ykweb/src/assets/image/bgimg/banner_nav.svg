@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="80px" viewBox="0 0 260 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>首页banner滚动底图导航</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="260" height="80"></rect>
+        <linearGradient x1="12.5385648%" y1="11.4282648%" x2="101.999998%" y2="100.999999%" id="linearGradient-3">
+            <stop stop-color="#8371F8" offset="0%"></stop>
+            <stop stop-color="#7059F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.8099295%" y1="10.3763247%" x2="9.35804591%" y2="77.655493%" id="linearGradient-4">
+            <stop stop-color="#3828D3" offset="0%"></stop>
+            <stop stop-color="#A1E2E2" stop-opacity="0.113139719" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.4834144%" y1="100.944849%" x2="102.055149%" y2="11.4834153%" id="linearGradient-5">
+            <stop stop-color="#696EF6" offset="0%"></stop>
+            <stop stop-color="#5F56F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-120.000000, -570.000000)">
+            <g id="分组-8" transform="translate(120.000000, 570.000000)">
+                <g id="首页banner滚动底图导航">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#5675EE" xlink:href="#path-1"></use>
+                    <g id="Group-child" mask="url(#mask-2)">
+                        <g transform="translate(-409.604198, -501.213114)">
+                            <path d="M664.578357,399.539412 L867.578357,399.539412 C905.686005,399.539412 936.578357,430.431764 936.578357,468.539412 L936.578357,774.539412 C936.578357,812.647059 905.686005,843.539412 867.578357,843.539412 L664.578357,843.539412 C626.470709,843.539412 595.578357,812.647059 595.578357,774.539412 L595.578357,468.539412 C595.578357,430.431764 626.470709,399.539412 664.578357,399.539412 Z" id="Rectangle-2-Copy-4" fill="url(#linearGradient-3)" opacity="0.805915179" transform="translate(766.078357, 621.539412) rotate(-315.000000) translate(-766.078357, -621.539412) "></path>
+                            <path d="M176.039412,401.539412 L379.039412,401.539412 C417.147059,401.539412 448.039412,432.431764 448.039412,470.539412 L448.039412,776.539412 C448.039412,814.647059 417.147059,845.539412 379.039412,845.539412 L176.039412,845.539412 C137.931764,845.539412 107.039412,814.647059 107.039412,776.539412 L107.039412,470.539412 C107.039412,432.431764 137.931764,401.539412 176.039412,401.539412 Z" id="Rectangle-2-Copy-5" fill="url(#linearGradient-4)" opacity="0.332333519" transform="translate(277.539412, 623.539412) rotate(-315.000000) translate(-277.539412, -623.539412) "></path>
+                            <path d="M421.039412,75.7380652 L624.039412,75.7380652 C662.147059,75.7380652 693.039412,106.630417 693.039412,144.738065 L693.039412,450.738065 C693.039412,488.845713 662.147059,519.738065 624.039412,519.738065 L421.039412,519.738065 C382.931764,519.738065 352.039412,488.845713 352.039412,450.738065 L352.039412,144.738065 C352.039412,106.630417 382.931764,75.7380652 421.039412,75.7380652 Z" id="Rectangle-2-Copy-6" fill="url(#linearGradient-5)" opacity="0.403915554" transform="translate(522.539412, 297.738065) rotate(-225.000000) translate(-522.539412, -297.738065) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
